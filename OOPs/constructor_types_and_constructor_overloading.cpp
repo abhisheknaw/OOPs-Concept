@@ -23,8 +23,6 @@ public:
 	{
 		a=n.a;
 		b=n.b;
-		cout<<a;
-		cout<<b;
 
 	}
 };
